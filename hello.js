@@ -1,7 +1,6 @@
-<link href="css/YTPlayer.css" media="all" rel="stylesheet" type="text/css">
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
-<script src="inc/jquery.mb.YTPlayer.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/3.3.4/jquery.mb.YTPlayer.min.js"></script>
 
 
 jQuery(function(){
