@@ -1,6 +1,1 @@
-
-
-
-jQuery(function(){
-      jQuery("#bgndVideo").YTPlayer();
-    });
+jQuery("#bgndVideo").YTPlayer();
