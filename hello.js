@@ -2,5 +2,5 @@
 
 
 jQuery(function(){
-      jQuery("#selects").YTPlayer();
+      jQuery("#bgndVideo").YTPlayer();
     });
